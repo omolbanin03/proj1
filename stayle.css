@@ -1,0 +1,25 @@
+.form{
+    background-color: rgb(178, 212, 241);
+    width:33.3%;
+    height:50px;
+}
+.back{
+    background-color: rgba(255, 255, 255, 0.851);
+    border: 1px solid white;
+    border-radius: 20px;
+    margin: 2px 2px;
+    padding: 1opx 10px;
+    justify-content: center;
+    
+
+
+
+}
+input{
+
+    justify-content: center;
+    
+}
+.search{
+
+}
